@@ -1,0 +1,56 @@
+1. General
+
+    1. should return logical OR from a and b
+       1p
+    2. should return true if a and b are strict equal
+       1p
+    3. should return boolean value of a
+       1p
+    4. should return true if number is an integer
+       2p
+    5. should convert °C into °F
+       1p
+
+2. Array
+
+    1. should return last element from array
+       1p
+    2. should return true if input is an array
+       1p
+    3. should remove all items from 'array', that are equal to 'element'
+       3p
+    4. should return maximum number value from array
+       2p
+    5. should return merged array without duplicates
+       1p
+    6. should insert fruits to array based on the object schema
+       2p
+    7. Should calculate average score based on the array of marks.
+       3p
+
+3. Functions
+
+    1. should return function that will return incremented value passed as an argument
+       1p
+    2. Should print triangle based on the number of lines
+       2p
+
+4. Object
+
+    1. should remove key, given as an argument, from object
+       1p
+    2. should return an object where key is a name of fruit, and value is value is the number of occurrences of a given fruit
+       3p
+    3. should convert object into an array of [key, value] pairs
+       2p
+    4. should return concated objects
+       1p
+
+5. String
+
+    1. should return reversed inputString
+       1p
+    2. should check if input is a palindrom
+       2p
+
+TOTAL: 32p /
