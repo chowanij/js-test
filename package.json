@@ -11,7 +11,7 @@
     "author": "Paweł Andruszków",
     "license": "MIT",
     "dependencies": {
-        "lodash": "^4.17.4",
+        "lodash": "^4.17.21",
         "mocha": "^3.4.2",
         "mocha-cli": "^1.0.1",
         "mocha-loader": "^1.1.1",
